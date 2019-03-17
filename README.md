@@ -2,6 +2,6 @@
 Test für Git Schulung
 
 
-hier wurde eine Zeile bearbeitet
 
-hier wurde eine Zeile ergänzt
+
+hier wurde eine Zeile bearbeitet
